@@ -1,114 +1,119 @@
-# 🌦️ Python Weather App
-
-A simple and beginner-friendly Weather App built using Python and OpenWeatherMap API.  
-This application fetches real-time weather information for any city.
+A collection of beginner-friendly Python projects built to improve programming, problem-solving, and API integration skills.  
+This repository contains useful mini applications developed using core Python concepts.
 
 ---
 
-## 🚀 Features
+# 📂 Projects Included
 
-- 🌍 Search weather by city name
-- 🌡️ Shows temperature in Celsius
-- 💧 Displays humidity
-- ☁️ Weather condition description
-- ❌ Handles invalid city names
-- 🌐 Uses real-time weather API
+## 🌦️ Weather App
+A real-time weather application that fetches live weather data using the OpenWeatherMap API.
+
+### Features
+- Live temperature updates
+- Humidity information
+- Weather condition display
+- City-based search
+- Error handling for invalid cities
 
 ---
 
-## 🛠️ Technologies Used
+## ⚖️ BMI Calculator
+A smart BMI Calculator that calculates Body Mass Index using height and weight.
+
+### Features
+- Supports multiple height units
+- BMI category analysis
+- Simple and clean interface
+- Health status output
+
+---
+
+## 🔐 Password Generator
+A secure random password generator built with Python.
+
+### Features
+- Generates strong passwords
+- Uses letters, numbers, and symbols
+- Custom password length
+- Beginner-friendly logic
+
+---
+
+# 🚀 Technologies Used
 
 - Python
 - Requests Library
-- OpenWeatherMap API
+- API Integration
+- Conditional Statements
+- Functions
+- Error Handling
 
 ---
 
-## 📦 Installation
+# 📦 Installation
 
-### 1️⃣ Clone the Repository
+## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/python-weather-app.git
+git clone https://github.com/your-username/python-mini-projects.git
 ```
 
-### 2️⃣ Open Project Folder
+## 2️⃣ Open Project Folder
 
 ```bash
-cd python-weather-app
-```
-
-### 3️⃣ Install Required Library
-
-```bash
-pip install requests
+cd python-mini-projects
 ```
 
 ---
 
-## 🔑 Get API Key
+# ▶️ Run Any Project
 
-1. Go to OpenWeatherMap  
-2. Create a free account  
-3. Generate your API key  
-4. Replace this line in the code:
-
-```python
-API_KEY = "YOUR_API_KEY"
-```
-
-with your actual API key.
-
----
-
-## ▶️ Run the Program
+## Weather App
 
 ```bash
 python weather_app.py
 ```
 
----
+## BMI Calculator
 
-## 📷 Example Output
+```bash
+python bmi_calculator.py
+```
 
-```text
-========================================
-            WEATHER APP
-========================================
+## Password Generator
 
-Enter city name: Kolkata
-
-🌍 Location: Kolkata, IN
-🌡️ Temperature: 32°C
-💧 Humidity: 70%
-☁️ Condition: Clear Sky
+```bash
+python password_generator.py
 ```
 
 ---
 
-## 📚 What I Learned
+# 📚 What I Learned
 
-- API Integration in Python
-- JSON Data Handling
-- Error Handling
-- Using Requests Library
-- Working with Real-Time Data
-
----
-
-## 🌟 Future Improvements
-
-- Add 5-day weather forecast
-- Build GUI version using Tkinter
-- Add weather icons
-- Voice assistant support
-- Auto-detect current location
+- Python fundamentals
+- API handling
+- User input validation
+- Error handling
+- Real-world project building
+- Problem-solving skills
 
 ---
 
-## 👨‍💻 Author
+# 🌟 Future Improvements
 
-Piyush Kumar Shaw
+- GUI versions using Tkinter
+- Database integration
+- Save history feature
+- Better UI/UX
+- More advanced Python projects
 
-- GitHub: Piyush-pixel24
-- LinkedIn: www.linkedin.com/in/piyush-kumar-shaw-0713b0293
+---
+
+# 👨‍💻 Author
+
+## Piyush Kumar Shaw
+
+- GitHub: https://github.com/Piyush-pixel24
+- LinkedIn: https://www.linkedin.com/in/piyush-kumar-shaw-0713b0293
+
+---
